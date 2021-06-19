@@ -1,5 +1,5 @@
 # Hacking-Into-Python-Compilers.
-Just run this code to Run any remote command into the cpmpiler machine.
+Just run this code to Run any remote command into the compiler machine.
 
 Install the requirements.txt using ``pip install -r requirements.txt``
 
